@@ -1,0 +1,10 @@
+https://github.com/codeedu/wsl2-docker-quickstart
+
+Criar Solution .NET pela linha de comando
+dotnet new sln -o RestWithASPNETUdemy
+
+Criar Projeto .NET pela linha de comando
+dotnet new webapi -o RestWithASPNETUdemy
+
+Vincular projeto à solution pela linha de comando
+dotnet sln add .\RestWithASPNETUdemy\RestWithASPNETUdemy.csproj
