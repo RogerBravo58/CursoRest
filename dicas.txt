@@ -8,3 +8,9 @@ dotnet new webapi -o RestWithASPNETUdemy
 
 Vincular projeto à solution pela linha de comando
 dotnet sln add .\RestWithASPNETUdemy\RestWithASPNETUdemy.csproj
+
+
+MIGRATION - Versionamento de banco de dados
+SEEDER/DATASET - Alimenta base de dados
+
+E:\CursoRest\07_RestWithASPNETUdemy_AddingSupportToDatabaseMigrations\RestWithASPNETUdemy\my_backup.sql
